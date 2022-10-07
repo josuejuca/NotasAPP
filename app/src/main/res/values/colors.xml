@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#21262d</color> <!-- 296D98 -->
+    <color name="purple_500">#296D98</color>
+    <color name="purple_700">#296D98</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="black_shade_1">#0d1117</color><!--0e2433 cor de fundo-->
+    <color name="black_shade_2">#1C4966</color>
+    <color name="github">#0d1117</color>
+
+    <color name="c1">#0540F2</color>
+    <color name="c2">#0554F2</color>
+    <color name="c3">#056CF2</color>
+    <color name="c4">#0583F2</color>
+    <color name="c5">#4DA6CD</color>
+    <color name="c6">#BABBBD</color>
+
+    <color name="g1">#07F9A2</color>
+    <color name="g2">#09C184</color>
+    <color name="g3"> #0A8967</color>
+    <color name="g4">#0C5149</color>
+    <color name="g5">#0D192B</color>
+</resources>

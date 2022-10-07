@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="titulo">Título</string>
+    <string name="escreva_um_texto">Escreva um texto</string>
+    <string name="anotacao">Anotação</string>
+    <string name="atualizado_a">Atualizado a</string>
+    <string name="atualizar_nota">Atualizar nota</string>
+    <string name="atualizar">Atualizar</string>
+</resources>
